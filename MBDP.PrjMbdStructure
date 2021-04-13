@@ -1,0 +1,8 @@
+Record=DiagramHierarchy|SourceDocument=MBS.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=Field Sensor ESP32.PrjPCB
+Record=SubProject|SourceDocument=MBS.MbsDoc|ProjectPath=Field Sensor ESP32.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MBS.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=Field Sensor Front end.PrjPcb
+Record=SubProject|SourceDocument=MBS.MbsDoc|ProjectPath=Field Sensor Front end.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MBS.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=Field Sensor Front end.PrjPcb
+Record=SubProject|SourceDocument=MBS.MbsDoc|ProjectPath=Field Sensor Front end.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MBS.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=Field Sensor Front end.PrjPcb
+Record=SubProject|SourceDocument=MBS.MbsDoc|ProjectPath=Field Sensor Front end.PrjPcb
