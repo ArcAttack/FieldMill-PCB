@@ -42,7 +42,7 @@ This is the Repo for the hardware associated with our Fieldmill project [link TB
     To screw the parts into the case you need to cut 20mm pieces off of an M2 threaded rod (or just cut apart some screws) and screw them through some female-female 5mm standoffs, which then screw the assembly made before into the half of the case we covered with copper tape.
     Before you screw it in you should make sure that the pin header on the front end board is located over the hole in the part so it can be connected to in the next step.
     
-    Finally you have to push the ESP32 board onto the back of what we just made, so it connects with the pins on the front end, and screw it on with either some more f-f m2 standoffs (no longer than 10mm though) or just some m2 washers.
+    Finally you have to push the ESP32 board onto the back of what we just made, so it connects with the pins on the front end, and screw it on with either some more f-f m2 standoffs (no longer than 10mm though) or just some m2 washers. You might have to cut the pin header shorter though, the one I found on digikey is not the same lenght I used.
     To access the USB port you'll need to leave the bottom cover off, but once the code is programmed you can close that and only connect the power in.
     
 ### Software 
