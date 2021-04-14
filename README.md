@@ -45,12 +45,14 @@ This is the Repo for the hardware associated with our Fieldmill project [link TB
     Finally you have to push the ESP32 board onto the back of what we just made, so it connects with the pins on the front end, and screw it on with either some more f-f m2 standoffs (no longer than 10mm though) or just some m2 washers.
     To access the USB port you'll need to leave the bottom cover off, but once the code is programmed you can close that and only connect the power in.
     
-  ### Profit
+### Software 
+  
+  To programm the ESP you should follow the steps detailed in the firmware repo: https://github.com/ArcAttack/FieldMill-Firmware
+  
+### Profit
     
-  That's it :) If you have any questions feel free to contact us on our website and we look forward to hearing your feedback.
+That's it :) If you have any questions feel free to contact us on our website and we look forward to hearing your feedback.
     
 # Notes
 
 VIn needs to be between 6V and 24V, the mill can also run from just USB.
-
-The firmware is here: https://github.com/ArcAttack/FieldMill-Firmware
