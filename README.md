@@ -58,3 +58,5 @@ That's it :) If you have any questions feel free to contact us on our website an
 # Notes
 
 VIn needs to be between 6V and 24V, the mill can also run from just USB.
+
+To connect the motor you can either solder in the wire directly or use some JST XH connectors. You can buy those in kits too, just look for XH connector set on the internet and you'll find them. The wires from the motor are so small that you might have to solder them into the crimp-contacts though.
