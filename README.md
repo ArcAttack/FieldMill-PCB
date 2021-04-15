@@ -5,6 +5,7 @@ This is the Repo for the hardware associated with our Fieldmill project [link TB
 ### Component procurement. You'll need the following:
 
   - The PCBs: 
+   
     There are exported gerbers packaged into .rar archives in the Gerber/V[number] folder, all four are needed. You can order these from whatever PCB manufacturer you prefer or make them yourself
     They are all single layer* and I have made the demo mill with home-etched pcbs too.
     (JLC would charge ~11€ plus shipping for all required PCBs as of April 2021)
@@ -12,6 +13,7 @@ This is the Repo for the hardware associated with our Fieldmill project [link TB
     *The stator and rotor are double layer but have no structures on the bottom one. The rotor just needs to be cut from double sided base material. The stator boards needs to have the holes connecting the four electrodes (the ones that are in the middle of them) slightly counter-sunk on the bottom side to prevent shorting against the back plane.
     
   - The Components: 
+  
     You will need approximately 25€ worth of components. Almost all smd parts, but non smaller than 0805. 
     I have created a ready to import bom document for DigiKey ("Full BOM - DigiKey.xlsx"). Simply import it to your card with the "Upload a File" Tab above the manual part adding box on the top of the page. You can ignore the warning about better options and just hit the submit button if it warns you about that.
     
