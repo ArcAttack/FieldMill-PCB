@@ -20,6 +20,7 @@ This is the Repo for the hardware associated with our Fieldmill project [link TB
 1.  Assemble the individual PCBs. (For reference on the orientation of some through hole components check out this album of pictures: [TBD])
     If you have never soldered SMD parts before I recommend looking at some of the how to videos for it on youtube, but don't worry it's really not that hard (Just remember: you can't ever have too much flux ;) )
     The component values should all be marked on the silkscreen, but if I forgot any or you made the board at home you can always look at the parts list in the PDF docs ("ESP32 Board.PDF" and "Front End.PDF")
+    **IMPORTANT** make sure to clean the front-end board VERY THOROUGHLY with a brush and IPA or ethanol after assembly. Even the slightest residue will cause leakages that ruin the Sensor ;)
    
 2.  Prepare the case. 
     The STL files for this are in the "3D Models" Folder. There are three pieces that need to be made. The precision does not need to be very high, for reference I had a friend print this on a 5 year old filament printer with no issues.
